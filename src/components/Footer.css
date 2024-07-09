@@ -1,0 +1,12 @@
+.Footer-body {
+    background-color: rgb(24, 24, 24);
+    height: 100px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.Info {
+    display: flex;
+    align-items: center;
+}
